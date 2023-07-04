@@ -2,4 +2,12 @@ div{
     background-color: aqua;
     margin-bottom: 10px;
     border: 2px solid red;
+
+}
+.list{
+    background-color: aquamarine;
+    font-weight: 900;
+    font-size: xx-large;
+    border: 10px dashed rgb(66, 142, 255);
+    box-shadow: 10px 20px 10px 25px violet;
 }
